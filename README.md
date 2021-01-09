@@ -3,7 +3,7 @@
 <a name="102"/>
 [Code 201 Reading Notes](#code-201-reading-notes)  
 <a name="201"/>
-&nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](#1)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](/class-01)  
 <a name="/class-01"/>
 &nbsp;&nbsp;&nbsp;&nbsp;[2](#2)  
 <a name="2"/>
