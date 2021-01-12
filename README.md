@@ -5,7 +5,7 @@
 ## Code 201 Reading Notes
 
 &nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](class-01)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2](#2)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2. Class-02](class-02)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3](#3)  
 &nbsp;&nbsp;&nbsp;&nbsp;[4](#4)  
 &nbsp;&nbsp;&nbsp;&nbsp;[5](#5)  
