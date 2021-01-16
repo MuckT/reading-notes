@@ -89,14 +89,17 @@
     * `false && true && 42`- stops after seeing false
 * IF Statements
   * Checks of evaluates a condition; if the condition evaluates true code in the if block is executed.
-    ```
+
+    ```javascript
     if (true) {
       console.log('This code will run');
     }
     ```
+
 * IF ELSE Statements
   * Checks a the first if conditional and if false runs the else statement
-    ```
+  
+    ```javascript
     if (false) {
       console.log('This code will never run');
     } else {
