@@ -78,3 +78,27 @@
   ```
 
 ### HTML Chapter 15 Layout TODO
+
+### JavaScript Chapter 3: Functions, Methods, and Objects TODO
+
+* TODO
+
+### Article: [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+* How does pair programming work?
+
+  * TODO
+
+* Why pair program?
+
+  * Greater efficiency
+  
+  * Engaged collaboration
+  
+  * Learning from fellow students
+
+  * Social skills
+
+  * Job interview readiness
+
+  * Work environment readiness
