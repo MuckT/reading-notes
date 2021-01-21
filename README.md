@@ -6,8 +6,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](https://muckt.github.io/reading-notes/class-01)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2. Class-02](https://muckt.github.io/reading-notes/class-02)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3. Class-03](https://muckt.github.io/reading-notes/class-03)
-&nbsp;&nbsp;&nbsp;&nbsp;[4](#4)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3. Class-03](https://muckt.github.io/reading-notes/class-03)  
+&nbsp;&nbsp;&nbsp;&nbsp;[4. Class-04](https://muckt.github.io/reading-notes/class-03)  
 &nbsp;&nbsp;&nbsp;&nbsp;[5](#5)  
 &nbsp;&nbsp;&nbsp;&nbsp;[6](#6)  
 &nbsp;&nbsp;&nbsp;&nbsp;[7](#7)  
