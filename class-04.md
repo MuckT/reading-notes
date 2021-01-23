@@ -87,13 +87,19 @@
 
 * How does pair programming work?
 
-  * TODO
+  * Two developers work on a problem together with one driver and navigator. Typically the driver handles writing the code while the Navigator thinks about the big picture; The navigator is thinking about the big picture and not writing any code.
 
 * Why pair program?
 
   * Greater efficiency
+
+    * Might take slightly longer; however, it produces higher quality code.
+
+    * Pairing enhances technical skills, team communication, and can help guide a developers less familiar with the codebase.
   
   * Engaged collaboration
+
+    * Focused collaboration, that 
   
   * Learning from fellow students
 
