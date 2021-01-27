@@ -45,69 +45,69 @@
 
   1. Location the node that represents the element you want to work with
 
-    ```JavaScript
+    ```javascript
     // Uses the element's id attribute (Unique in the page)
     var element = getElementById();
     ```
 
-    ```JavaScript
+    ```javascript
     // Uses a CSS selector, and returns the first matching element
     var element = querySelector();
     ```
 
-    ```JavaScript
+    ```javascript
     // Selects all elements that have a specific value for their class name
     var element = getElementByClassName();
     ```
 
-    ```JavaScript
+    ```javascript
     // Selects all elements that have a specified tag name.
     var element = getElementByTagName();
     ```
 
-    ```JavaScript
+    ```javascript
     // Uses a CSS selector to select all matching elements
     var element = querySelectorAll();
     ```
 
-    ```JavaScript
+    ```javascript
     // Selects the parent of the element node
     var element = parentNode();
     ```
 
-    ```JavaScript
+    ```javascript
     // Selects the previous sibling
     var element = previousSibling();
     ```
 
-    ```JavaScript
+    ```javascript
     // Selects the next sibling
     var element = nextSibling();
     ```
 
-    ```JavaScript
+    ```javascript
     // Selects the first child
     var element = firstChild();
     ```
 
-    ```JavaScript
+    ```javascript
     // Selects last child
     var element = lastChild();
     ```
 
   2. Use it's text content, child elements, and attributes to modify, append or remove an element via dom manipulation
 
-    ```JavaScript
+    ```javascript
     // Access or update the contents of a text node
     getElementById('sample-id').nodeValue = 'Changed'
     ```
 
-    ```JavaScript
+    ```javascript
     // Update with innerHTML
     getElementById('sample-id').innerHTML = `<div><p>This element has been changed</p></div>`
     ```
 
-    ```JavaScript
+    ```javascript
     // Adding an element to the dom tree
     // Create a new element and store it as a variable
     var newEl = document.createElement('li');
@@ -125,7 +125,7 @@
     position.appendChild(newEl);
     ```
 
-    ```JavaScript
+    ```javascript
     // Store the element to be removed
     var removeEl = document.querySelectorAll('#sample-id');
     // Store the parent of the element in a variable
@@ -202,7 +202,7 @@
 
   * Check for an attribute and get it's value - It's good practice to check that it exists prior to modifying
 
-  ```JavaScript
+  ```javascript
   var firstItem = document.getElementById('one'); // Get first list item
 
   if (firstItem.hasAttribute('class')) { // If it has class attribute
@@ -216,7 +216,7 @@
 
   * Creating attributes and changing their values
 
-  ```JavaScript
+  ```javascript
   var firstItem = document.getElementById('one'); // Get the first item
   firstItem.className = 'complete'; // Change its class attribute
 
@@ -226,7 +226,7 @@
 
   * Removing attributes
 
-  ```JavaScript
+  ```javascript
   var firstItem = document.getElementById('one') // Get the first item
   if (firstItem.hasAttribute('class')) { // If it has a class attribute
     firstItem.removeAttribute('class'); // Remove its class attribute
