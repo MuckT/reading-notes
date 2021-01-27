@@ -4,12 +4,12 @@
 
 ## Code 201 Reading Notes
 
-&nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](./class-01)  
-&nbsp;&nbsp;&nbsp;&nbsp;[2. Class-02](./class-02)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3. Class-03](./class-03)  
-&nbsp;&nbsp;&nbsp;&nbsp;[4. Class-04](./class-04)  
-&nbsp;&nbsp;&nbsp;&nbsp;[5. Class-05](./class-05)  
-&nbsp;&nbsp;&nbsp;&nbsp;[6. Class-06](./class-06)  
+&nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](class-01)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2. Class-02](class-02)  
+&nbsp;&nbsp;&nbsp;&nbsp;[3. Class-03](class-03)  
+&nbsp;&nbsp;&nbsp;&nbsp;[4. Class-04](class-04)  
+&nbsp;&nbsp;&nbsp;&nbsp;[5. Class-05](class-05)  
+&nbsp;&nbsp;&nbsp;&nbsp;[6. Class-06](class-06)  
 &nbsp;&nbsp;&nbsp;&nbsp;[7](#7)  
 &nbsp;&nbsp;&nbsp;&nbsp;[8](#8)  
 &nbsp;&nbsp;&nbsp;&nbsp;[9](#9)  
