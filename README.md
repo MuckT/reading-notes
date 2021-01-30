@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[4. Class-04](class-04.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[5. Class-05](class-05.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[6. Class-06](class-06.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;[7](#7)  
+&nbsp;&nbsp;&nbsp;&nbsp;[7. Class-07](class-07.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[8](#8)  
 &nbsp;&nbsp;&nbsp;&nbsp;[9](#9)  
 &nbsp;&nbsp;&nbsp;&nbsp;[10](#10)  
