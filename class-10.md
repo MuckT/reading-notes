@@ -102,7 +102,7 @@
 
       * Check the number of parameters passed to a function of the number of item in an array
 
-      * Be prepared to repeate this process
+      * Be prepared to repeated this process
 
 * Dev Tools
 
@@ -134,10 +134,66 @@
 
 * The Debugger Keyword - Creates a breakpoint in the code using `debugger` on that line
 
-* Handling Exceptions
+* Handling Exceptions - Try, Catch, Finally
 
-* Try, Catch, Finally
+  * Try - specify the code that you think might throw an error
 
-* Throwing Errors
+  * Catch - If the code block throws an exception, catch steps in with an alternative set of code.
+
+  * Finally - The contents of the finally code block will run either way - whether the try block succeeded of failed
+
+  ```JavaScript
+  try {
+    // Try to execute this code
+  } catch (exception) {
+    // If there is an exception, run this code
+  } finally {
+    // This code always gets executed
+  }
+  ```
+
+* Throwing Errors - If you know something might cause a problem for your script you can generate your own errors
+
+  * Create a new Error object - `throw new Error('message');`
+
+* Debugging Tips
+
+  * Another browser - Some problems are browser specific.
+
+  * Add numbers to the console to see how far your code executes.
+
+  * Strip it back - Comment out suspect parts of code to reduce complexity.
+
+  * Explain the code - Either to a rubber ducky or someone else.
+
+  * Google message the error you are seeing.
 
 * Common Errors
+
+  * Basics
+
+    * Case - JavaScript is case sensitive
+
+    * Scope - Is the variable you are trying to access out of scope?
+
+    * Reserved words or dashes in variable names.
+
+    * Quotes - Do your quotes match e.g. ' and "
+
+  * Missed / Extra Characters
+
+    * Missing closing brackets and parenthesis
+
+    * Commas inside an `)` or `}`
+
+    * Check for missing parameters
+
+    * `undefined !== null` - `null` is for objects, `undefined` is for properties, methods, or variables
+
+    * Check that your script has loaded
+
+    * Look for conflicts
+
+  * Data type issues
+
+    * Using `=` instead of `==` - but really just always use `===`
