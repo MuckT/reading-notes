@@ -1,4 +1,4 @@
-# class-07 reading notes
+# class-10 reading notes
 
 ## [Quizlet Terms TODO](https://quizlet.com/)
 
