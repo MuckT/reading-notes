@@ -12,7 +12,7 @@
 
   * Cookies are limited to about 4 KB of data
 
-* Precursors to Local Storage
+* Precursors to Local Storage - Most of these solutions were either specific to a single browser, or required third party plugins.
 
   * Microsoft userData
 
@@ -28,9 +28,8 @@
 
     * An API to an embedded SQL database based on SQLite
 
-  * Most of these solutions were either specific to a single browser, or required third party plugins.
 
-## LocalStorage the details
+## Local Storage Details
 
 * Has 5MB of Storage space on the devices hard drive
 
@@ -67,7 +66,7 @@
   console.log(retrievedData)
   ```
   
-### Alternatives to localStorage - Likely used to store more than 5MB
+### Alternatives to local Storage - Likely used to store more than 5MB
 
 * [PouchDB](https://pouchdb.com/)
 
