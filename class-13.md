@@ -2,7 +2,7 @@
 
 ## [Quizlet Terms TODO](https://quizlet.com/)
 
-### [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS]("http://diveinto.html5doctor.com/storage.html")
+### [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](http://diveinto.html5doctor.com/storage.html)
 
 ### Before Local Storage
 
