@@ -28,7 +28,6 @@
 
     * An API to an embedded SQL database based on SQLite
 
-
 ## Local Storage Details
 
 * Has 5MB of Storage space on the devices hard drive
