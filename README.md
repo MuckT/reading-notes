@@ -28,3 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3. Class-09](class-301-09.md)  
 
 ## Code 401 - Advanced Software Development
+
+## Partner Power Hour
+
+&nbsp;&nbsp;&nbsp;&nbsp;[04-17-2021](pph-20210417.md)  
