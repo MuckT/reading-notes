@@ -22,6 +22,7 @@
 
 ## Code 301 - Intermediate Software Development
 
+&nbsp;&nbsp;&nbsp;&nbsp;[0. ES6 Classes](class-301-ES6.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](class-301-01.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2. Class-02](class-301-02.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3. Class-03](class-301-03.md)  
