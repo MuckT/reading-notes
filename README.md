@@ -20,7 +20,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[1. Class-01](class-301-01.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[2. Class-02](class-301-02.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[3. Class-03](class-301-03.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;[3. Class-09](class-301-09.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[9. Class-09](class-301-09.md)  
 
 ## Code 401 - Advanced Software Development
 
