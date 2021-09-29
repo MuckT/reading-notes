@@ -23,6 +23,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[9. Class-09](class-301-09.md)  
 
 ## Code 401 - Advanced Software Development
+&nbsp;&nbsp;&nbsp;&nbsp;[Express](class-401-express.md)  
 
 ## Partner Power Hour
 
