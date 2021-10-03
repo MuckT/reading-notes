@@ -24,6 +24,7 @@
 
 ## Code 401 - Advanced Software Development
 &nbsp;&nbsp;&nbsp;&nbsp;[Express](class-401-express.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Middleware](class-401-middleware.md)  
 
 ## Partner Power Hour
 
