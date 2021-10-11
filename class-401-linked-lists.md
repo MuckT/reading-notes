@@ -3,7 +3,7 @@
 ## Vocabulary Terms
 | Term | Definition |
 | ---- | ---- |
-| Big O | A resource agnostic way of evaluating the performance of an algorithm. It describes the worst case of efficiency an algorithm can have in performing it’s job. |
+| Big O | A resource agnostic way of evaluating the performance of an algorithm. It describes the worst case of efficiency an algorithm can have in performing its job. |
 | Running Time | The amount of time a function needs to complete. |
 | Memory Space | The amount of memory resources a function uses to store data and instructions. |
 | Constant Complexity Growth | No matter the inputs are thrown at our algorithm it always uses the same amount of time or space. This is represented in Big O notation as O(1). |
@@ -32,7 +32,7 @@ Adding a node to the middle of a linked list requires that we must re-allocate t
 ### Memory management
 Arrays and linked lists use memory differently. Arrays need memory in a contiguous block whereas linked lists can use memory in unconnected blocks.
 
-### A warning on Linked lists
+### A warning on Linked Lists
 A linked list is usually efficient when it comes to adding and removing most elements, but can be very slow to search and find a single element.
 
 
