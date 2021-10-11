@@ -26,6 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Express](class-401-express.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Middleware](class-401-middleware.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Data Modeling](class-401-data-modeling.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Linked Lists](class-401-linked-lists.md)  
 
 
 ## Partner Power Hour
