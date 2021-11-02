@@ -27,8 +27,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Middleware](class-401-middleware.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Data Modeling](class-401-data-modeling.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Linked Lists](class-401-linked-lists.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Bearer Authorization](class-401-bearer-authorization.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Socket io](class-401-bearer-authorization.md)  
 
 
 ## Partner Power Hour
 
-&nbsp;&nbsp;&nbsp;&nbsp;[04-17-2021](pph-20210417.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Raven Robertson](pph-20210417.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Ryan Pedersen](pph-20211016.md)  
