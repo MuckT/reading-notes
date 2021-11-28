@@ -23,6 +23,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[9. Class-09](class-301-09.md)  
 
 ## Code 401 - Advanced Software Development
+&nbsp;&nbsp;&nbsp;&nbsp;[Prep Readings](class-401-prep-readings.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Node TDD CICD](class-401-Node-TDD-CICD.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Express](class-401-express.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Middleware](class-401-middleware.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Data Modeling](class-401-data-modeling.md)  
@@ -35,3 +37,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;[Raven Robertson](pph-20210417.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Ryan Pedersen](pph-20211016.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[John Cokos](pph-20211113.md)  
