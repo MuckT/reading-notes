@@ -30,7 +30,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[Data Modeling](class-401-data-modeling.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Linked Lists](class-401-linked-lists.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Bearer Authorization](class-401-bearer-authorization.md)  
-&nbsp;&nbsp;&nbsp;&nbsp;[Socket io](class-401-bearer-authorization.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Socket io](class-401-Socket-io.md)  
+&nbsp;&nbsp;&nbsp;&nbsp;[Component Based UI](class-401-component-based-ui.md)  
 
 
 ## Partner Power Hour
